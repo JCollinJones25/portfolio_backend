@@ -10,7 +10,7 @@ const PORT = process.env.PORT
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Hello there')
+    res.send('Home page')
 })
 
 app.get('/projects', (req, res) => {
