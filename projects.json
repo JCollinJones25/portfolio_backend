@@ -10,5 +10,11 @@
       "live": "https://collins-imdb.herokuapp.com/movies",
       "git": "https://github.com/JCollinJones25/IMDB",
       "image": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png"
+    },
+    {
+      "name": "React Trade Tracker",
+      "live": "https://trade-tracker-stocks.herokuapp.com/",
+      "git": "https://github.com/JCollinJones25/Project-3",
+      "image": "https://github.com/JCollinJones25/Project-3/blob/main/public/images/chart.png"
     }
   ]
