@@ -6,7 +6,7 @@
       "image": "https://user-images.githubusercontent.com/86025071/163034822-2baf7032-5aad-4e30-a337-968b81f2152e.png"
     },
     {
-      "name": "IMDb CRUD App",
+      "name": "IMDb",
       "live": "https://collins-imdb.herokuapp.com/movies",
       "git": "https://github.com/JCollinJones25/IMDB",
       "image": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png"
@@ -16,5 +16,11 @@
       "live": "https://trade-tracker-stocks.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/Project-3",
       "image": "https://github.com/JCollinJones25/Project-3/blob/main/public/images/chart.png"
+    },
+    {
+      "name": "Disclose",
+      "live": "https://disclose-locations.herokuapp.com/",
+      "git": "https://github.com/JCollinJones25/disclose",
+      "image": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/home.png?raw=true"
     }
   ]
