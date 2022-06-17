@@ -1,6 +1,6 @@
 [
     {
-      "name": "War Browser Game",
+      "name": "War",
       "live": "https://jcollinjones25.github.io/JCJ-War-Card-Game/",
       "git": "https://github.com/JCollinJones25/JCJ-War-Card-Game",
       "image": "https://user-images.githubusercontent.com/86025071/163034822-2baf7032-5aad-4e30-a337-968b81f2152e.png"
@@ -12,10 +12,10 @@
       "image": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png"
     },
     {
-      "name": "React Trade Tracker",
+      "name": "Trade Tracker",
       "live": "https://trade-tracker-stocks.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/Project-3",
-      "image": "https://github.com/JCollinJones25/Project-3/blob/main/public/images/chart.png"
+      "image": "https://github.com/JCollinJones25/trade-tracker/blob/main/public/images/chart.png?raw=true"
     },
     {
       "name": "Disclose",
