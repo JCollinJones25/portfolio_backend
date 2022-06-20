@@ -3,10 +3,10 @@
       "name": "War",
       "live": "https://jcollinjones25.github.io/JCJ-War-Card-Game/",
       "git": "https://github.com/JCollinJones25/JCJ-War-Card-Game",
-      "image1": "https://user-images.githubusercontent.com/86025071/163034822-2baf7032-5aad-4e30-a337-968b81f2152e.png",
-      "image2": "https://user-images.githubusercontent.com/86025071/163035435-233c5990-349c-47cd-b222-0de36d214725.png",
-      "image3": "https://user-images.githubusercontent.com/86025071/163035555-56ce2263-c1a0-4de4-ae5c-7fff87d53a99.png",
-      "image4": "https://user-images.githubusercontent.com/86025071/163035722-50e2d719-9421-4e00-80b8-a9ef790885f6.png"
+      "image1": "https://raw.githubusercontent.com/JCollinJones25/JCJ-War-Card-Game/main/images/start1.png",
+      "image2": "https://raw.githubusercontent.com/JCollinJones25/JCJ-War-Card-Game/main/images/start2.png",
+      "image3": "https://raw.githubusercontent.com/JCollinJones25/JCJ-War-Card-Game/main/images/war.png",
+      "image4": "https://raw.githubusercontent.com/JCollinJones25/JCJ-War-Card-Game/main/images/gameover.png"
     },
     {
       "name": "IMDb",
