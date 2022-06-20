@@ -1,6 +1,9 @@
 {
     "name": "Collin Jones",
     "email": "jamescollin.jones.jcj@gmail.com",
-    "headshot": "headshot.png",
-    "bio": "Collin Jones is set to graduate from General Assembly in June 2022. His skillset lies in Front-End Software Development and he is learning Back-End technologies. He has a background in police work before pursuing a software engineering career."
+    "headshot": "headshot.jpeg",
+    "headshot2": "headshot2.jpeg",
+    "image1": "grad.png",
+    "image2": "police.jpeg",
+    "bio": "Software Engineer seeking to broaden my abilities as a developer in order to promote honest and trustworthy web services. Background in police work and experience in working on a team, overcoming unique challenges under stress, and understanding people from different walks of life."
 }
