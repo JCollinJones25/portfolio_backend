@@ -3,24 +3,36 @@
       "name": "War",
       "live": "https://jcollinjones25.github.io/JCJ-War-Card-Game/",
       "git": "https://github.com/JCollinJones25/JCJ-War-Card-Game",
-      "image": "https://user-images.githubusercontent.com/86025071/163034822-2baf7032-5aad-4e30-a337-968b81f2152e.png"
+      "image1": "https://user-images.githubusercontent.com/86025071/163034822-2baf7032-5aad-4e30-a337-968b81f2152e.png",
+      "image2": "https://user-images.githubusercontent.com/86025071/163035435-233c5990-349c-47cd-b222-0de36d214725.png",
+      "image3": "https://user-images.githubusercontent.com/86025071/163035555-56ce2263-c1a0-4de4-ae5c-7fff87d53a99.png",
+      "image4": "https://user-images.githubusercontent.com/86025071/163035722-50e2d719-9421-4e00-80b8-a9ef790885f6.png"
     },
     {
       "name": "IMDb",
       "live": "https://collins-imdb.herokuapp.com/movies",
       "git": "https://github.com/JCollinJones25/IMDB",
-      "image": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png"
+      "image1": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png",
+      "image2": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-top.png",
+      "image3": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-bottom.png",
+      "image4": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-actor-show-bottom.png"
     },
     {
       "name": "Trade Tracker",
       "live": "https://trade-tracker-stocks.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/Project-3",
-      "image": "https://github.com/JCollinJones25/trade-tracker/blob/main/public/images/chart.png?raw=true"
+      "image1": "https://raw.githubusercontent.com/JCollinJones25/trade-tracker/main/public/images/home-screen.png",
+      "image2": "https://raw.githubusercontent.com/JCollinJones25/trade-tracker/main/public/images/home-screen-search.png",
+      "image3": "https://raw.githubusercontent.com/JCollinJones25/trade-tracker/main/public/images/stock-page.png",
+      "image4": "https://raw.githubusercontent.com/JCollinJones25/trade-tracker/main/public/images/chart.png"
     },
     {
       "name": "Disclose",
       "live": "https://disclose-locations.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/disclose",
-      "image": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/home.png?raw=true"
+      "image1": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/login.png",
+      "image2": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/home.png",
+      "image3": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/location.png",
+      "image4": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/comment-section.png"
     }
   ]
