@@ -3,9 +3,9 @@
     "email": "jamescollin.jones.jcj@gmail.com",
     "linkedin": "https://www.linkedin.com/in/j-collin-jones/",
     "github": "https://github.com/JCollinJones25",
-    "headshot": "headshot.jpeg",
-    "headshot2": "headshot2.jpeg",
-    "image1": "grad.png",
-    "image2": "police.jpeg",
+    "headshot": "images/headshot.jpeg",
+    "headshot2": "images/headshot2.jpeg",
+    "image1": "images/grad.png",
+    "image2": "images/police.jpeg",
     "bio": "Software Engineer seeking to broaden my abilities as a developer in order to promote honest and trustworthy web services. Background in police work and experience in working on a team, overcoming unique challenges under stress, and understanding people from different walks of life."
 }
