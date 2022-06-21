@@ -30,7 +30,7 @@
       "name": "Disclose",
       "live": "https://disclose-locations.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/disclose",
-      "image1": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/login.png",
+      "image1": "https://github.com/JCollinJones25/disclose/blob/c9900ad1e7874f35e1bc96b0378eeb378602b4ea/main_app/static/images/login.png",
       "image2": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/home.png",
       "image3": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/location.png",
       "image4": "https://github.com/JCollinJones25/disclose/blob/main/main_app/static/images/comment-section.png"
