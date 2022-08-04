@@ -13,7 +13,7 @@
       "name": "IMDb",
       "live": "https://collins-imdb.herokuapp.com/movies",
       "git": "https://github.com/JCollinJones25/IMDB",
-      "technologies": "MongoDB, Express, Node.js",
+      "technologies": "MongoDB, Express.js, Node.js",
       "image1": "https://raw.githubusercontent.com/JCollinJones25/IMDB/main/screenshots/IMDB-movie-index.png",
       "image2": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-top.png",
       "image3": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-bottom.png",
@@ -38,5 +38,15 @@
       "image2": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/home.png",
       "image3": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/location.png",
       "image4": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/comment-section.png"
+    },
+    {
+      "name": "Travel Buddy",
+      "live": "https://travelbuddy-planner.netlify.app/",
+      "git": "https://github.com/JCollinJones25/travelbuddy_frontend",
+      "technologies": "PostgreSQL, Express.js, React, Node.js",
+      "image1": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.pngg",
+      "image2": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/edit.png",
+      "image3": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/input.png",
+      "image4": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png"
     }
   ]
