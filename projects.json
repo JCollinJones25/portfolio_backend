@@ -33,7 +33,7 @@
       "name": "Disclose",
       "live": "https://disclose-locations.herokuapp.com/",
       "git": "https://github.com/JCollinJones25/disclose",
-      "technologies": "Django, Python, PostgreSQL",
+      "technologies": "Django, Python, PostgreSQL, API",
       "image1": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/login.png",
       "image2": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/home.png",
       "image3": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/location.png",
