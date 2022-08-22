@@ -1,52 +1,52 @@
 [
-    {
-      "name": "War",
-      "live": "https://jcollinjones25.github.io/War/",
-      "git": "https://github.com/JCollinJones25/War",
-      "technologies": "HTML, CSS, JavaScript",
-      "image1": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/start1.png",
-      "image2": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/start2.png",
-      "image3": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/war.png",
-      "image4": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/gameover.png"
-    },
-    {
-      "name": "IMDb",
-      "live": "https://collins-imdb.herokuapp.com/movies",
-      "git": "https://github.com/JCollinJones25/IMDb",
-      "technologies": "MongoDB, Express.js, Node.js",
-      "image1": "https://raw.githubusercontent.com/JCollinJones25/IMDb/main/screenshots/IMDB-movie-index.png",
-      "image2": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-top.png",
-      "image3": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-bottom.png",
-      "image4": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-actor-show-bottom.png"
-    },
-    {
-      "name": "Trade Tracker",
-      "live": "https://trade-tracker-stocks.herokuapp.com/",
-      "git": "https://github.com/JCollinJones25/trade_tracker",
-      "technologies": "React, JavaScript, API",
-      "image1": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/home-screen.png",
-      "image2": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/search.png",
-      "image3": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/stock-page.png",
-      "image4": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/chart.png"
-    },
-    {
-      "name": "Disclose",
-      "live": "https://disclose-locations.herokuapp.com/",
-      "git": "https://github.com/JCollinJones25/disclose",
-      "technologies": "Django, Python, PostgreSQL, API",
-      "image1": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/login.png",
-      "image2": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/home.png",
-      "image3": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/location.png",
-      "image4": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/comment-section.png"
-    },
-    {
-      "name": "Travel Buddy",
-      "live": "https://travelbuddy-planner.netlify.app/",
-      "git": "https://github.com/JCollinJones25/travelbuddy_frontend",
-      "technologies": "PostgreSQL, Express.js, React, Node.js",
-      "image1": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png",
-      "image2": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/edit.png",
-      "image3": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png",
-      "image4": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/input.png"
-    }
-  ]
+  {
+    "name": "Disclose",
+    "live": "https://disclose-locations.herokuapp.com/",
+    "git": "https://github.com/JCollinJones25/disclose",
+    "technologies": "Django, Python, PostgreSQL, API",
+    "image1": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/login.png",
+    "image2": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/home.png",
+    "image3": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/location.png",
+    "image4": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/comment-section.png"
+  },
+  {
+    "name": "Trade Tracker",
+    "live": "https://trade-tracker-stocks.herokuapp.com/",
+    "git": "https://github.com/JCollinJones25/trade_tracker",
+    "technologies": "React, JavaScript, API",
+    "image1": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/home-screen.png",
+    "image2": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/search.png",
+    "image3": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/stock-page.png",
+    "image4": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/chart.png"
+  },
+  {
+    "name": "IMDb",
+    "live": "https://collins-imdb.herokuapp.com/movies",
+    "git": "https://github.com/JCollinJones25/IMDb",
+    "technologies": "MongoDB, Express.js, Node.js",
+    "image1": "https://raw.githubusercontent.com/JCollinJones25/IMDb/main/screenshots/IMDB-movie-index.png",
+    "image2": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-top.png",
+    "image3": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-movie-show-bottom.png",
+    "image4": "https://raw.githubusercontent.com/Royal0817/Project-2/main/screenshots/IMDB-actor-show-bottom.png"
+  },
+  {
+    "name": "Travel Buddy",
+    "live": "https://travelbuddy-planner.netlify.app/",
+    "git": "https://github.com/JCollinJones25/travelbuddy_frontend",
+    "technologies": "PostgreSQL, Express.js, React, Node.js",
+    "image1": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png",
+    "image2": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/edit.png",
+    "image3": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png",
+    "image4": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/input.png"
+  },
+  {
+    "name": "War",
+    "live": "https://jcollinjones25.github.io/War/",
+    "git": "https://github.com/JCollinJones25/War",
+    "technologies": "HTML, CSS, JavaScript",
+    "image1": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/start1.png",
+    "image2": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/start2.png",
+    "image3": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/war.png",
+    "image4": "https://raw.githubusercontent.com/JCollinJones25/War/main/images/gameover.png"
+  }
+]
