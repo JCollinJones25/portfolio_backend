@@ -1,7 +1,7 @@
 [
   {
     "name": "Disclose",
-    "live": "https://disclose-locations.herokuapp.com/",
+    "live": "https://disclose-locations.fly.dev/",
     "git": "https://github.com/JCollinJones25/disclose",
     "technologies": "Django, Python, PostgreSQL, API",
     "image1": "https://raw.githubusercontent.com/JCollinJones25/disclose/main/main_app/static/images/login.png",
@@ -11,7 +11,7 @@
   },
   {
     "name": "Trade Tracker",
-    "live": "https://trade-tracker-stocks.herokuapp.com/",
+    "live": "https://trade-tracker-stocks.fly.dev",
     "git": "https://github.com/JCollinJones25/trade_tracker",
     "technologies": "React, JavaScript, API",
     "image1": "https://raw.githubusercontent.com/JCollinJones25/trade_tracker/main/public/images/home-screen.png",
@@ -21,7 +21,7 @@
   },
   {
     "name": "IMDb",
-    "live": "https://collins-imdb.herokuapp.com/movies",
+    "live": "https://collins-imdb.fly.dev/movies",
     "git": "https://github.com/JCollinJones25/IMDb",
     "technologies": "MongoDB, Express.js, Node.js",
     "image1": "https://raw.githubusercontent.com/JCollinJones25/IMDb/main/screenshots/IMDB-movie-index.png",
@@ -31,7 +31,7 @@
   },
   {
     "name": "Travel Buddy",
-    "live": "https://travelbuddy-planner.netlify.app/",
+    "live": "https://travelbuddy-planner.fly.dev",
     "git": "https://github.com/JCollinJones25/travelbuddy_frontend",
     "technologies": "PostgreSQL, Express.js, React, Node.js",
     "image1": "https://raw.githubusercontent.com/JCollinJones25/travelbuddy_frontend/main/public/images/trips.png",
